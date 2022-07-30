@@ -1,1 +1,1 @@
-# design_patterns
+CPP Implementation of various Design Patterns!
